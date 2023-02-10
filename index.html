@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
     <script defer src="script.js"></script>
 </head>
 <body>
+<div class="bg">
     <div class="main">
         <div class="title">Etch-a-Sketch</div>
         <div class="gridbox"></div>
+        <div class="controlbox">
         <div class="buttons">
             <button onclick="colorSelect('black')">Black</button>
             <button onclick="colorSelect('white')">Erase</button>
@@ -17,9 +22,13 @@
             <button onclick="resetBoard()">Reset</button>
         </div>
         <div class="sliderbox">
-            <input type="range" min="16" max="64" value="16" class="slider" id="gridslider">
-            <p>Size: <output class="value"></output>x<output class="value2"></output></p>
+            <label for="gridslider">Grid Size</label><input type="range" min="16" max="64" value="16" class="slider" id="gridslider">
+            <p class="sizetext">Size: <output class="value"></output>x<output class="value2"></output></p>
+        </div>
         </div>
     </div>
+</div>
+<div class="circle1"></div>
+<div class="circle2"></div>
 </body>
 </html>

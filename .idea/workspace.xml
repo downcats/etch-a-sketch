@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6838c8cd-afbf-4c75-8995-3c602f8f5de7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="6838c8cd-afbf-4c75-8995-3c602f8f5de7" name="Changes" comment="Add style">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +62,50 @@
       <workItem from="1676006255720" duration="335000" />
       <workItem from="1676006599049" duration="562000" />
       <workItem from="1676007381929" duration="5852000" />
-      <workItem from="1676040975007" duration="176000" />
+      <workItem from="1676040975007" duration="3623000" />
     </task>
+    <task id="LOCAL-00001" summary="Change .gitignore">
+      <created>1676041260055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676041260055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change .gitignore">
+      <created>1676041318221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676041318221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Style buttons">
+      <created>1676041324052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676041324052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change .gitignore" />
+    <MESSAGE value="Style buttons" />
+    <MESSAGE value="Add style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add style" />
   </component>
 </project>
