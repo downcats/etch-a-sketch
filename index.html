@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <div class="main">
+        <div class="title">Etch-a-Sketch</div>
+        <div class="gridbox"></div>
+        <div class="buttons">
+            <button onclick="colorSelect('black')">Black</button>
+            <button onclick="colorSelect('white')">Erase</button>
+            <button onclick="colorSelect('random')">Rainbow</button>
+            <button onclick="resetBoard()">Reset</button>
+        </div>
+        <div class="sliderbox">
+            <input type="range" min="16" max="64" value="16" class="slider" id="gridslider">
+            <p>Size: <output class="value"></output>x<output class="value2"></output></p>
+        </div>
+    </div>
+</body>
+</html>
