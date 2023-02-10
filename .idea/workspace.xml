@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6838c8cd-afbf-4c75-8995-3c602f8f5de7" name="Changes" comment="Add style">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="6838c8cd-afbf-4c75-8995-3c602f8f5de7" name="Changes" comment="Add style" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
       <workItem from="1676006255720" duration="335000" />
       <workItem from="1676006599049" duration="562000" />
       <workItem from="1676007381929" duration="5852000" />
-      <workItem from="1676040975007" duration="3623000" />
+      <workItem from="1676040975007" duration="4112000" />
     </task>
     <task id="LOCAL-00001" summary="Change .gitignore">
       <created>1676041260055</created>
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676041324052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add style">
+      <created>1676044612075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676044612075</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
